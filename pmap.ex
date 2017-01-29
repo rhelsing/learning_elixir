@@ -1,3 +1,4 @@
+#does not work yet
 defmodule Parallel do
   def pmap(collection, func) do
     collection
