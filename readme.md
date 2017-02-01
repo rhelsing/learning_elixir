@@ -3,3 +3,4 @@
 * Concurrent
 * Pattern Matching
 * Immutable
+* Anon Functions
